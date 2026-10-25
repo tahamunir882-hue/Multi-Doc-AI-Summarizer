@@ -1,0 +1,17 @@
+streamlit
+PyMuPDF
+python-docx
+python-pptx
+pandas
+openpyxl
+langdetect
+scikit-learn
+Pillow
+pytesseract
+reportlab
+arabic-reshaper
+python-bidi
+PyJWT
+cryptography
+gTTS
+python-dotenv

@@ -1,0 +1,18 @@
+{
+  "app_title": "ملٹی ڈاکومنٹ AI خلاصہ ساز",
+  "login": "لاگ ان", "signup": "اکاؤنٹ بنائیں", "logout": "لاگ آؤٹ",
+  "name": "نام", "email": "ای میل", "password": "پاس ورڈ",
+  "dashboard": "ڈیش بورڈ", "documents": "دستاویزات", "summaries": "خلاصے",
+  "recent": "حالیہ خلاصے",
+  "upload_title": "دستاویزات اپ لوڈ کریں",
+  "upload_help": "PDF، DOCX یا TXT۔ آپ کئی فائلیں منتخب کر سکتے ہیں۔",
+  "summary_language": "خلاصے کی زبان",
+  "same_as_doc": "دستاویز کی زبان میں",
+  "summary_length": "خلاصے کی لمبائی",
+  "short": "مختصر", "medium": "درمیانہ", "detailed": "تفصیلی",
+  "summarize": "خلاصہ بنائیں",
+  "results_title": "خلاصے کے نتائج",
+  "combined": "مشترکہ خلاصہ",
+  "download": "ٹیکسٹ کے طور پر ڈاؤن لوڈ کریں",
+  "no_results": "ابھی کوئی نتیجہ نہیں۔ پہلے دستاویزات اپ لوڈ کریں۔"
+}

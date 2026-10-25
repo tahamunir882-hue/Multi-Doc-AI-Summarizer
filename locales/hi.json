@@ -1,0 +1,18 @@
+{
+  "app_title": "मल्टी-डॉक्यूमेंट AI सारांश",
+  "login": "लॉगिन", "signup": "साइन अप", "logout": "लॉगआउट",
+  "name": "नाम", "email": "ईमेल", "password": "पासवर्ड",
+  "dashboard": "डैशबोर्ड", "documents": "दस्तावेज़", "summaries": "सारांश",
+  "recent": "हाल के सारांश",
+  "upload_title": "दस्तावेज़ अपलोड करें",
+  "upload_help": "PDF, DOCX या TXT। आप कई फ़ाइलें चुन सकते हैं।",
+  "summary_language": "सारांश की भाषा",
+  "same_as_doc": "दस्तावेज़ की भाषा में",
+  "summary_length": "सारांश की लंबाई",
+  "short": "छोटा", "medium": "मध्यम", "detailed": "विस्तृत",
+  "summarize": "सारांश बनाएं",
+  "results_title": "सारांश परिणाम",
+  "combined": "संयुक्त सारांश",
+  "download": "टेक्स्ट के रूप में डाउनलोड करें",
+  "no_results": "अभी कोई परिणाम नहीं। पहले दस्तावेज़ अपलोड करें।"
+}

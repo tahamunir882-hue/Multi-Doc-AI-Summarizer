@@ -1,0 +1,18 @@
+{
+  "app_title": "Multi-Document AI Summarizer",
+  "login": "Login", "signup": "Sign up", "logout": "Logout",
+  "name": "Name", "email": "Email", "password": "Password",
+  "dashboard": "Dashboard", "documents": "Documents", "summaries": "Summaries",
+  "recent": "Recent summaries",
+  "upload_title": "Upload Documents",
+  "upload_help": "PDF, DOCX or TXT. You can select multiple files.",
+  "summary_language": "Summary language",
+  "same_as_doc": "Same as document",
+  "summary_length": "Summary length",
+  "short": "Short", "medium": "Medium", "detailed": "Detailed",
+  "summarize": "Summarize",
+  "results_title": "Summary Results",
+  "combined": "Combined summary",
+  "download": "Download as text",
+  "no_results": "No results yet. Upload documents first."
+}
